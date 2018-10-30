@@ -1,0 +1,21 @@
+{
+  "name": "Lorem Ipsum Generator",
+  "short_name": "lorem-ipsum",
+  "version": "0.0.1",
+  "manifest_version": 2,
+  "description": "Injecting stuff",
+  "homepage_url": "https://github.com/anilcancakir/lorem-ipsum-generator-chrome-extension",
+  "browser_action": {
+    "default_title": "Lorem Ipsum Generator",
+    "default_popup": "popup/popup.html"
+  },
+  "icons": {
+    "16": "assets/logo-16.png",
+    "32": "assets/logo-32.png",
+    "48": "assets/logo-48.png",
+    "128": "assets/logo-128.png",
+    "512": "assets/logo-512.png",
+    "1024": "assets/logo-1024.png"
+  },
+  "content_security_policy": "script-src 'self' 'unsafe-eval'; object-src 'self'"
+}

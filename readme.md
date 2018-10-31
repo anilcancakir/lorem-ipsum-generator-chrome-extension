@@ -6,6 +6,6 @@ The extension has shortcut buttons. Example, you can copy or refresh the generat
 
 Used VueJs and Vuex.
 
-#Screenshots
+## Screenshots
 
 ![Popup](https://raw.githubusercontent.com/anilcancakir/lorem-ipsum-generator-chrome-extension/master/screenshot.png)
